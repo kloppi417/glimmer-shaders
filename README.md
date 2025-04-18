@@ -20,8 +20,8 @@ Glimmer is a Minecraft shaderpack designed to be simple and performant without l
 - Bloom.
 
 ## Compatibility
-- OpenGL 4.3+ - MacOS is *not supported*, nor is the Raspberry Pi. Most modern GPUs (integrated or dedicated) should work fine.
-- Iris 1.6+, Optifine is *not supported*.
+- OpenGL 4.3+ - macOS is *not* supported, nor is the Raspberry Pi. Most modern GPUs (integrated or dedicated) should work fine.
+- Iris 1.6+, Optifine is *not* supported.
 
 ## Acknowledgements
 - Andrew Hilmer, for his [Shadertoy implementation](https://www.shadertoy.com/view/slSXRW) of Sébastien Hillaire's ['A Scalable and Production Ready Sky and Atmosphere Rendering Technique'](https://github.com/sebh/UnrealEngineSkyAtmosphere)
@@ -33,6 +33,7 @@ Glimmer is a Minecraft shaderpack designed to be simple and performant without l
 - [BuilderB0y](https://github.com/builderb0y) from whom I shamelessly stole the idea of an infinite ocean plane
 - As always, the members of the ShaderLABS Discord server who have helped me get this far learning how to do all this
 - Many other people, there are links scattered throughout the code
+- kloppi417 for so helpfully fixing the capitalization of "macOS"
 
 ## Get in touch
 If you have an issue with Glimmer or just want to chat, you can [join my Discord server](https://discord.gg/b9SHNcvs6c) or find me in `#jbritains-shaderpacks` in the [shaderLABS Discord server](https://discord.gg/RpzWN9S).
